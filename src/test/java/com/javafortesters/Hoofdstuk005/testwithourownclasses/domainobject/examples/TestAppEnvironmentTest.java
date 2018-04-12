@@ -11,5 +11,13 @@ public class TestAppEnvironmentTest {
         assertEquals("Returns Hard Coded URL",
                 "http://192.123.0.3:67",
                 TestAppEnv.getUrl());
+
+//        assertEquals("Returns Hard Coded URL",
+//                "http://192.123.0.3:67",
+//                TestAppEnv.getUrlNull());
+//
+//        assertEquals("Returns Hard Coded URL",
+//                "http://192.123.0.3:67",
+//                TestAppEnv.getUrlInt());
     }
 }
