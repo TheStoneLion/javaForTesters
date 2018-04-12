@@ -3,7 +3,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class Chap004Oef001 {
+public class Chap004Oef001Test {
     @Test
     public void integerExploration() {
         Integer four = new Integer(4);
