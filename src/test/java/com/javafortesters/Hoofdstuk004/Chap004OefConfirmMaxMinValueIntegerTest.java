@@ -1,4 +1,4 @@
-package Hoofdstuk004;
+package com.javafortesters.Hoofdstuk004;
 
 import org.junit.Test;
 

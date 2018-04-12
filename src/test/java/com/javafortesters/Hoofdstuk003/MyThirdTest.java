@@ -1,4 +1,4 @@
-package Hoofdstuk003;
+package com.javafortesters.Hoofdstuk003;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
