@@ -1,3 +1,5 @@
+package Hoofdstuk004;
+
 import org.junit.Test;
 import java.lang.Integer;
 import static org.junit.Assert.assertEquals;

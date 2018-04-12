@@ -1,4 +1,4 @@
-package com.javafortesters.chap003mysecondtest.examples;
+package Hoofdstuk003;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
