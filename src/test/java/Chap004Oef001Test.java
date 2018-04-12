@@ -15,4 +15,10 @@ public class Chap004Oef001Test {
         Integer five = new Integer("5");
         assertEquals("intValue returns int 5", 5, five.intValue());
     }
+
+    @Test
+    public void integerExplorationAutoboxing() {
+        Integer four = 4;
+        assertEquals("intValue returns int 4", 4, four.intValue());
+    }
 }
