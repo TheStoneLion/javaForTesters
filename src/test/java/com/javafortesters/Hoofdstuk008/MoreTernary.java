@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 
 public class MoreTernary {
     @Test
-    public void moreTernary(){
+    public void moreTernaryTest(){
         String url = "www.eviltester.com";
         url = url.startsWith("http") ? url : addHttp(url);
 

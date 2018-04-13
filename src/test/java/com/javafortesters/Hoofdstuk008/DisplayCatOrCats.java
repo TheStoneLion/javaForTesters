@@ -1,34 +1,30 @@
 package com.javafortesters.Hoofdstuk008;
 
 import org.junit.Test;
+import static java.lang.System.*;
 import static org.junit.Assert.assertEquals;
+
 import com.javafortesters.domainentities.Cat;
 
 public class DisplayCatOrCats {
     @Test
-    public void TestCatOrCats() {
-        int nrOfCats = 1;
-        System.out.println(
-                "We have " +
-                nrOfCats +
-                " " +
-                Cat.getCatOrCats(nrOfCats));
-        assertEquals("1 == cat", "cat", Cat.getCatOrCats(nrOfCats));
+    public void CatOrCatsTest() {
+        int aantalKatten = 1;
+        TestAantalKatten("kat", aantalKatten);
 
-        nrOfCats = 2;
-        System.out.println(
-                "We have " +
-                        nrOfCats +
-                        " " +
-                        Cat.getCatOrCats(nrOfCats));
-        assertEquals("2 == cats", "cats", Cat.getCatOrCats(nrOfCats));
+        aantalKatten = 2;
+        TestAantalKatten("katten", aantalKatten);
 
-        nrOfCats = 101;
-        System.out.println(
-                "We have " +
-                        nrOfCats +
-                        " " +
-                        Cat.getCatOrCats(nrOfCats));
-        assertEquals("101 == cats", "cats", Cat.getCatOrCats(nrOfCats));
+        aantalKatten = 101;
+        TestAantalKatten("katten", aantalKatten);
+    }
+
+    private void SchrijfAantalKatten(int aantalKatten) {
+        out.printf("Wij hebben %d %s%n", aantalKatten, Cat.getCatOrCats(aantalKatten));
+    }
+
+    private void TestAantalKatten(String verwachtResultaat, int aantalKatten) {
+        SchrijfAantalKatten(aantalKatten);
+        assertEquals(aantalKatten + " katten", verwachtResultaat, Cat.getCatOrCats(aantalKatten));
     }
 }

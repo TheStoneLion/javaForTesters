@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class TestCountry {
     @Test
-    public void TestCountryName() {
+    public void CountryNameTest() {
         Assert.assertEquals(
                 "UK is Verenigd Koninkrijk",
                 "Verenigd Koninkrijk",
@@ -30,7 +30,7 @@ public class TestCountry {
     }
 
     @Test
-    public void TestSwitchTrue() {
+    public void SwitchTrueTest() {
         Assert.assertEquals(
                 "1 is Een",
                 "Een",

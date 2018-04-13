@@ -9,19 +9,19 @@ public class AssertBoolean {
     boolean waarheid=true;
 
     @Test
-    public void IsWaar() {
+    public void IsWaarTest() {
         if (waarheid)
             assertTrue(waarheid);
     }
 
     @Test
-    public void IsNietWaar() {
+    public void IsNietWaarTest() {
         if (!waarheid)
             assertFalse(!waarheid);
     }
 
     @Test
-    public void IsWaarOfNietWaar() {
+    public void IsWaarOfNietWaarTest() {
         if (waarheid)
             assertTrue(waarheid);
         else
@@ -29,7 +29,7 @@ public class AssertBoolean {
     }
 
     @Test
-    public void IsWaarOfNietWaar2() {
+    public void IsWaarOfNietWaar2Test() {
         waarheid=false;
 
         if (waarheid) {
