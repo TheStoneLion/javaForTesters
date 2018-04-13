@@ -1,4 +1,4 @@
-package Hoofdstuk006;
+package com.javafortesters.Hoofdstuk006;
 
 import com.javafortesters.domainentities.User;
 import org.junit.Test;
