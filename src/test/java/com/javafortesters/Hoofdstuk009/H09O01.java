@@ -56,4 +56,32 @@ public class H09O01 {
             System.out.println(day);
         }
     }
+
+    @Test
+    public void createDriehoek(){
+
+        int[][]driehoek = new int [16][];
+
+        for(int rij=0; rij<driehoek.length; rij++){
+            driehoek[rij] = new int[rij+1];
+            for(int i=0; i< (rij+1); i++){
+                driehoek[rij][i] = i;
+            }
+        }
+
+        print2DIntArray(driehoek);
+    }
+
+    public void print2DIntArray(int [][]multi){
+        for(int[] outer : multi){
+            if(outer==null){
+                System.out.print("null");
+            }else{
+                for(int inner : outer){
+                    System.out.print(inner + ",");
+                }
+            }
+            System.out.println("");
+        }
+    }
 }
