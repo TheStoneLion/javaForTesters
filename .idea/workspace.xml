@@ -26,8 +26,8 @@
       <file leaf-file-name="H09O01.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk009/H09O01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+            <state relative-caret-position="306">
+              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -247,35 +247,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.H09O01.ProcessUsers">
+  <component name="RunManager" selected="JUnit.H09O01.CreateUsers">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="AssertBoolean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.Hoofdstuk008.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk008" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk008.AssertBoolean" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="DisplayCatOrCats" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
@@ -313,6 +290,29 @@
       <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk008" />
       <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk008.DisplayCatOrCats" />
       <option name="METHOD_NAME" value="CatOrCatsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="H09O01.CreateUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.Hoofdstuk009.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk009" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk009.H09O01" />
+      <option name="METHOD_NAME" value="CreateUsers" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -421,19 +421,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.AssertBoolean" />
       <item itemvalue="JUnit.DisplayCatOrCats.CatOrCatsTest" />
       <item itemvalue="JUnit.DisplayCatOrCats" />
       <item itemvalue="JUnit.com.javafortesters.Hoofdstuk009 in javaForTesters" />
       <item itemvalue="JUnit.H09O01.ProcessUsers" />
+      <item itemvalue="JUnit.H09O01.CreateUsers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.H09O01.CreateUsers" />
         <item itemvalue="JUnit.H09O01.ProcessUsers" />
         <item itemvalue="JUnit.com.javafortesters.Hoofdstuk009 in javaForTesters" />
         <item itemvalue="JUnit.DisplayCatOrCats.CatOrCatsTest" />
         <item itemvalue="JUnit.DisplayCatOrCats" />
-        <item itemvalue="JUnit.AssertBoolean" />
       </list>
     </recent_temporary>
   </component>
@@ -448,18 +448,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="com_javafortesters_Hoofdstuk009_in_javaForTesters - 2018.04.16 at 10h 48m 15s.xml">
-      <configuration name="com.javafortesters.Hoofdstuk009 in javaForTesters" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="com_javafortesters_Hoofdstuk009_in_javaForTesters - 2018.04.16 at 10h 48m 40s.xml">
-      <configuration name="com.javafortesters.Hoofdstuk009 in javaForTesters" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="com_javafortesters_Hoofdstuk009_in_javaForTesters - 2018.04.16 at 10h 50m 02s.xml">
-      <configuration name="com.javafortesters.Hoofdstuk009 in javaForTesters" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="com_javafortesters_Hoofdstuk009_in_javaForTesters - 2018.04.16 at 10h 50m 20s.xml">
-      <configuration name="com.javafortesters.Hoofdstuk009 in javaForTesters" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="com_javafortesters_Hoofdstuk009_in_javaForTesters - 2018.04.16 at 10h 52m 09s.xml">
       <configuration name="com.javafortesters.Hoofdstuk009 in javaForTesters" configurationId="JUnit" />
     </history-entry>
@@ -477,6 +465,18 @@
     </history-entry>
     <history-entry file="H09O01_ProcessUsers - 2018.04.16 at 11h 02m 21s.xml">
       <configuration name="H09O01.ProcessUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="H09O01_ProcessUsers - 2018.04.16 at 11h 06m 30s.xml">
+      <configuration name="H09O01.ProcessUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="H09O01_CreateUsers - 2018.04.16 at 11h 20m 33s.xml">
+      <configuration name="H09O01.CreateUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="H09O01_CreateUsers - 2018.04.16 at 11h 21m 13s.xml">
+      <configuration name="H09O01.CreateUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="H09O01_CreateUsers - 2018.04.16 at 11h 22m 36s.xml">
+      <configuration name="H09O01.CreateUsers" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -858,13 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -872,10 +865,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk009/H09O01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        <state relative-caret-position="306">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
