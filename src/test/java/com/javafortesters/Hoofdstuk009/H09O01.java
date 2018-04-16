@@ -1,9 +1,9 @@
 package com.javafortesters.Hoofdstuk009;
 
-import com.javafortesters.domainentities.User;
 import org.junit.Test;
-
 import static org.junit.Assert.assertEquals;
+import java.util.Arrays;
+import com.javafortesters.domainentities.User;
 
 public class H09O01 {
 
@@ -38,5 +38,22 @@ public class H09O01 {
         assertEquals("password25", gebruikers[24].getPassword());
         assertEquals("user100", gebruikers[99].getUsername());
         assertEquals("password100", gebruikers[99].getPassword());
+        assertEquals(100, gebruikers.length);
+    }
+
+    @Test
+    public void SortWeekdays () {
+        String[] workdaysUppercase = {"Monday", "Tuesday", "Wednesday", "Thursday",
+                "Friday"};
+        String[] workdaysMixedcase = {"monday", "Tuesday", "Wednesday", "thursday",
+                "Friday"};
+        Arrays.sort(workdaysUppercase);
+        Arrays.sort(workdaysMixedcase);
+        for(String day : workdaysUppercase){
+            System.out.println(day);
+        }
+        for(String day : workdaysMixedcase){
+            System.out.println(day);
+        }
     }
 }
