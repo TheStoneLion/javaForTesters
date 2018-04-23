@@ -1,7 +1,6 @@
 package com.javafortesters.Hoofdstuk012;
 
 import com.javafortesters.domainentities.ExtendedUser;
-import com.javafortesters.domainentities.User;
 import com.javafortesters.domainobject.TestAppEnv;
 import org.junit.Test;
 

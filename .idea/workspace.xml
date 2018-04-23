@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29b7e6f1-69e6-4c0a-8a70-f6c9eeb9cfa4" name="Default" comment="" />
+    <list default="true" id="29b7e6f1-69e6-4c0a-8a70-f6c9eeb9cfa4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/InvalidPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk013/CreateAnInvalidPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk010/CreateAndManipulateMapOfUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk010/CreateAndManipulateMapOfUsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk010/CreateAndManipulateSetOfUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk010/CreateAndManipulateSetOfUsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk012/InheritanceAndCompsition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk012/InheritanceAndCompsition.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,6 +29,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="H09O01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk009/H09O01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -30,13 +50,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InheritanceAndCompsition.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk012/InheritanceAndCompsition.java">
+      <file leaf-file-name="User2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+            <state relative-caret-position="665">
+              <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding>
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#1099#1100#0" expanded="true" />
+                <element signature="e#1138#1139#0" expanded="true" />
+                <element signature="e#1177#1178#0" expanded="true" />
+                <element signature="e#1216#1217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateAnInvalidPasswordException.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk013/CreateAnInvalidPasswordException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvalidPassword.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/InvalidPassword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,11 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/test/java/Chap004Oef001Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Chap004OefIntToHexTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Chap004OefConfirmMaxMinValueInteger.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Chap004OefConfirmMaxMinValueIntegerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Hoofdstuk003/MyFifth.java" />
         <option value="$PROJECT_DIR$/src/test/java/Hoofdstuk003/TestMyFifth.java" />
         <option value="$PROJECT_DIR$/src/test/java/Hoofdstuk004/Chap004OefIntToHexTest.java" />
@@ -108,6 +153,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/TestAppEnv.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/ExtendedUser.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk012/InheritanceAndCompsition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/domainentities/InvalidPassword.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/InvalidPassword.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/UserWithInvalidPassword.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk013/CreateAnInvalidPasswordException.java" />
       </list>
     </option>
   </component>
@@ -179,15 +229,6 @@
               <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javafortesters" type="462c0819:PsiDirectoryNode" />
-              <item name="domainobject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -212,7 +253,16 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javafortesters" type="462c0819:PsiDirectoryNode" />
-              <item name="Hoofdstuk012" type="462c0819:PsiDirectoryNode" />
+              <item name="Hoofdstuk009" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafortesters" type="462c0819:PsiDirectoryNode" />
+              <item name="Hoofdstuk013" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,26 +305,118 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InheritanceAndCompsition.emptyUserExampleTest">
+  <component name="RunManager" selected="JUnit.CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordConstructorMessage">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="InheritanceAndCompsition.emptyUserExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateAnInvalidPasswordException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.Hoofdstuk012.*" />
+          <option name="PATTERN" value="com.javafortesters.Hoofdstuk013.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk012" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk012.InheritanceAndCompsition" />
-      <option name="METHOD_NAME" value="emptyUserExampleTest" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk013" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk013.CreateAnInvalidPasswordException" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.Hoofdstuk013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk013" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk013.CreateAnInvalidPasswordException" />
+      <option name="METHOD_NAME" value="TestThrowExexptionOnInvalidPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordConstructorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.Hoofdstuk013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk013" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk013.CreateAnInvalidPasswordException" />
+      <option name="METHOD_NAME" value="TestThrowExexptionOnInvalidPasswordConstructorMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordDefaultConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.Hoofdstuk013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk013" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk013.CreateAnInvalidPasswordException" />
+      <option name="METHOD_NAME" value="TestThrowExexptionOnInvalidPasswordDefaultConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordSetPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.Hoofdstuk013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk013" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk013.CreateAnInvalidPasswordException" />
+      <option name="METHOD_NAME" value="TestThrowExexptionOnInvalidPasswordSetPassword" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -292,98 +434,6 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="throwANullPointerException.catchANullPointerException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.Hoofdstuk011.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk011" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk011.throwANullPointerException" />
-      <option name="METHOD_NAME" value="catchANullPointerException" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="throwANullPointerException.catchANullPointerExceptionAndShowMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.Hoofdstuk011.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk011" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk011.throwANullPointerException" />
-      <option name="METHOD_NAME" value="catchANullPointerExceptionAndShowMessage" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="throwANullPointerException.catchAnArithmeticExceptionInsteadOfANullPointerException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.Hoofdstuk011.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk011" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk011.throwANullPointerException" />
-      <option name="METHOD_NAME" value="catchAnArithmeticExceptionInsteadOfANullPointerException" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="throwANullPointerException.fixedANullPointerException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.Hoofdstuk011.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk011" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk011.throwANullPointerException" />
-      <option name="METHOD_NAME" value="fixedANullPointerException" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -429,19 +479,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.throwANullPointerException.fixedANullPointerException" />
-      <item itemvalue="JUnit.throwANullPointerException.catchANullPointerException" />
-      <item itemvalue="JUnit.throwANullPointerException.catchAnArithmeticExceptionInsteadOfANullPointerException" />
-      <item itemvalue="JUnit.throwANullPointerException.catchANullPointerExceptionAndShowMessage" />
-      <item itemvalue="JUnit.InheritanceAndCompsition.emptyUserExampleTest" />
+      <item itemvalue="JUnit.CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPassword" />
+      <item itemvalue="JUnit.CreateAnInvalidPasswordException" />
+      <item itemvalue="JUnit.CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordSetPassword" />
+      <item itemvalue="JUnit.CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordDefaultConstructor" />
+      <item itemvalue="JUnit.CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordConstructorMessage" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InheritanceAndCompsition.emptyUserExampleTest" />
-        <item itemvalue="JUnit.throwANullPointerException.catchANullPointerExceptionAndShowMessage" />
-        <item itemvalue="JUnit.throwANullPointerException.catchANullPointerException" />
-        <item itemvalue="JUnit.throwANullPointerException.catchAnArithmeticExceptionInsteadOfANullPointerException" />
-        <item itemvalue="JUnit.throwANullPointerException.fixedANullPointerException" />
+        <item itemvalue="JUnit.CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordConstructorMessage" />
+        <item itemvalue="JUnit.CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordDefaultConstructor" />
+        <item itemvalue="JUnit.CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordSetPassword" />
+        <item itemvalue="JUnit.CreateAnInvalidPasswordException" />
+        <item itemvalue="JUnit.CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPassword" />
       </list>
     </recent_temporary>
   </component>
@@ -456,18 +506,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="throwANullPointerException_catchAnArithmeticExceptionInsteadOfANullPointerException - 2018.04.23 at 11h 32m 04s.xml">
-      <configuration name="throwANullPointerException.catchAnArithmeticExceptionInsteadOfANullPointerException" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="throwANullPointerException_catchANullPointerExceptionAndShowMessage - 2018.04.23 at 11h 34m 54s.xml">
-      <configuration name="throwANullPointerException.catchANullPointerExceptionAndShowMessage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="throwANullPointerException_catchANullPointerExceptionAndShowMessage - 2018.04.23 at 11h 37m 06s.xml">
-      <configuration name="throwANullPointerException.catchANullPointerExceptionAndShowMessage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="throwANullPointerException_catchANullPointerException - 2018.04.23 at 11h 37m 26s.xml">
-      <configuration name="throwANullPointerException.catchANullPointerException" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="throwANullPointerException_catchANullPointerExceptionAndShowMessage - 2018.04.23 at 11h 38m 00s.xml">
       <configuration name="throwANullPointerException.catchANullPointerExceptionAndShowMessage" configurationId="JUnit" />
     </history-entry>
@@ -486,9 +524,22 @@
     <history-entry file="InheritanceAndCompsition_emptyUserExampleTest - 2018.04.23 at 13h 11m 22s.xml">
       <configuration name="InheritanceAndCompsition.emptyUserExampleTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CreateAnInvalidPasswordException_TestThrowExexptionOnInvalidPassword - 2018.04.23 at 15h 29m 29s.xml">
+      <configuration name="CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPassword" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateAnInvalidPasswordException_TestThrowExexptionOnInvalidPassword - 2018.04.23 at 15h 30m 06s.xml">
+      <configuration name="CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPassword" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateAnInvalidPasswordException - 2018.04.23 at 15h 30m 20s.xml">
+      <configuration name="CreateAnInvalidPasswordException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateAnInvalidPasswordException_TestThrowExexptionOnInvalidPasswordSetPassword - 2018.04.23 at 15h 32m 24s.xml">
+      <configuration name="CreateAnInvalidPasswordException.TestThrowExexptionOnInvalidPasswordSetPassword" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -497,10 +548,10 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32975295" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.4187298" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.4187298" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.29166666" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.29166666" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32938644" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
@@ -517,27 +568,27 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.3240043" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.44564047" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.2921875" />
+      <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32975295" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.29166666" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="4" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.4187298" />
       <window_info anchor="bottom" id="Inspection Results" order="4" weight="0.32998565" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="0" />
-      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.39935413" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32938644" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39935413" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
-      <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32975295" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32998565" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.44564047" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info id="Favorites" order="1" side_tool="true" />
     </layout-to-restore>
@@ -551,41 +602,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk003/MyFifthTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk003/MyFirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk003/MyFourthTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk003/MyTestFifth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk003/MyThirdTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk003/TestMyFifth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -802,16 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk009/H09O01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" selection-start-line="11" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk010/IntroducingCollections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -866,13 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk011/throwANullPointerException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -901,19 +900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/ExtendedUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainobject/TestAppEnv.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -921,10 +907,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../javaForTestersCode/source/src/main/java/com/javafortesters/domainobject/interim/TestAppEnv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk012/InheritanceAndCompsition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+        <state relative-caret-position="285">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/ExtendedUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/UserWithInvalidPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk009/H09O01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/InvalidPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk013/CreateAnInvalidPasswordException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
