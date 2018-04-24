@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29b7e6f1-69e6-4c0a-8a70-f6c9eeb9cfa4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk014/UseAllAsserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk014/ReplicateAllAsserts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,11 +24,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UseAllAsserts.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UseAllAsserts.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk014/UseAllAsserts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+            <state relative-caret-position="383">
+              <caret line="66" selection-start-line="63" selection-end-line="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReplicateAllAsserts.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk014/ReplicateAllAsserts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/Hoofdstuk003/TestMyFifth.java" />
         <option value="$PROJECT_DIR$/src/test/java/Hoofdstuk004/Chap004OefIntToHexTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap005testwithourownclasses/domainobject/examples/TestAppEnvironmentTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/domainobject/TestAppEnv.java" />
@@ -102,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User2.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk013/CreateAnInvalidPasswordException.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk014/UseAllAsserts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk014/ReplicateAllAsserts.java" />
       </list>
     </option>
   </component>
@@ -219,6 +231,7 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.javafortesters.Hoofdstuk014" />
       <recent name="com.javafortesters.Hoofdstuk010" />
       <recent name="com.javafortesters.Hoofdstuk005" />
       <recent name="com.javafortesters.domainobject" />
@@ -240,14 +253,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UseAllAsserts.TestUseAllAsserts05">
+  <component name="RunManager" selected="JUnit.ReplicateAllAsserts.AssertThatReplacesAssertNotNull">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="UseAllAsserts.TestUseAllAsserts04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReplicateAllAsserts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
@@ -258,8 +271,31 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk014" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk014.UseAllAsserts" />
-      <option name="METHOD_NAME" value="TestUseAllAsserts04" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk014.ReplicateAllAsserts" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ReplicateAllAsserts.AssertThatReplacesAssertNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.Hoofdstuk014.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk014" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk014.ReplicateAllAsserts" />
+      <option name="METHOD_NAME" value="AssertThatReplacesAssertNotNull" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -270,7 +306,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="UseAllAsserts.TestUseAllAsserts05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReplicateAllAsserts.AssertThatReplacesAssertNotSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
@@ -281,8 +317,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk014" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk014.UseAllAsserts" />
-      <option name="METHOD_NAME" value="TestUseAllAsserts05" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk014.ReplicateAllAsserts" />
+      <option name="METHOD_NAME" value="AssertThatReplacesAssertNotSame" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -293,7 +329,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="UseAllAsserts.TestUseAllAsserts08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReplicateAllAsserts.AssertThatReplacesAssertNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
@@ -304,8 +340,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk014" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk014.UseAllAsserts" />
-      <option name="METHOD_NAME" value="TestUseAllAsserts08" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk014.ReplicateAllAsserts" />
+      <option name="METHOD_NAME" value="AssertThatReplacesAssertNull" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -316,7 +352,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="UseAllAsserts.UseAllAsserts06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReplicateAllAsserts.AssertThatReplacesAssertSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
@@ -327,31 +363,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk014" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk014.UseAllAsserts" />
-      <option name="METHOD_NAME" value="UseAllAsserts06" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="UseAllAsserts.UseAllAsserts07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.Hoofdstuk014.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.Hoofdstuk014" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk014.UseAllAsserts" />
-      <option name="METHOD_NAME" value="UseAllAsserts07" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.Hoofdstuk014.ReplicateAllAsserts" />
+      <option name="METHOD_NAME" value="AssertThatReplacesAssertSame" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -414,19 +427,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.UseAllAsserts.UseAllAsserts06" />
-      <item itemvalue="JUnit.UseAllAsserts.UseAllAsserts07" />
-      <item itemvalue="JUnit.UseAllAsserts.TestUseAllAsserts08" />
-      <item itemvalue="JUnit.UseAllAsserts.TestUseAllAsserts04" />
-      <item itemvalue="JUnit.UseAllAsserts.TestUseAllAsserts05" />
+      <item itemvalue="JUnit.ReplicateAllAsserts.AssertThatReplacesAssertSame" />
+      <item itemvalue="JUnit.ReplicateAllAsserts.AssertThatReplacesAssertNotSame" />
+      <item itemvalue="JUnit.ReplicateAllAsserts.AssertThatReplacesAssertNull" />
+      <item itemvalue="JUnit.ReplicateAllAsserts" />
+      <item itemvalue="JUnit.ReplicateAllAsserts.AssertThatReplacesAssertNotNull" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UseAllAsserts.TestUseAllAsserts05" />
-        <item itemvalue="JUnit.UseAllAsserts.TestUseAllAsserts04" />
-        <item itemvalue="JUnit.UseAllAsserts.TestUseAllAsserts08" />
-        <item itemvalue="JUnit.UseAllAsserts.UseAllAsserts07" />
-        <item itemvalue="JUnit.UseAllAsserts.UseAllAsserts06" />
+        <item itemvalue="JUnit.ReplicateAllAsserts.AssertThatReplacesAssertNotNull" />
+        <item itemvalue="JUnit.ReplicateAllAsserts" />
+        <item itemvalue="JUnit.ReplicateAllAsserts.AssertThatReplacesAssertNull" />
+        <item itemvalue="JUnit.ReplicateAllAsserts.AssertThatReplacesAssertNotSame" />
+        <item itemvalue="JUnit.ReplicateAllAsserts.AssertThatReplacesAssertSame" />
       </list>
     </recent_temporary>
   </component>
@@ -441,35 +454,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UseAllAsserts - 2018.04.24 at 11h 39m 38s.xml">
-      <configuration name="UseAllAsserts" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UseAllAsserts - 2018.04.24 at 11h 49m 02s.xml">
-      <configuration name="UseAllAsserts" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UseAllAsserts_UseAllAsserts - 2018.04.24 at 11h 51m 20s.xml">
-      <configuration name="UseAllAsserts.UseAllAsserts" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UseAllAsserts_UseAllAsserts - 2018.04.24 at 11h 52m 23s.xml">
-      <configuration name="UseAllAsserts.UseAllAsserts" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UseAllAsserts - 2018.04.24 at 11h 56m 15s.xml">
-      <configuration name="UseAllAsserts" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UseAllAsserts_UseAllAsserts - 2018.04.24 at 12h 00m 35s.xml">
-      <configuration name="UseAllAsserts.UseAllAsserts" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UseAllAsserts - 2018.04.24 at 12h 02m 37s.xml">
-      <configuration name="UseAllAsserts" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UseAllAsserts_UseAllAsserts03 - 2018.04.24 at 12h 02m 53s.xml">
-      <configuration name="UseAllAsserts.UseAllAsserts03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UseAllAsserts_UseAllAsserts07 - 2018.04.24 at 12h 12m 39s.xml">
-      <configuration name="UseAllAsserts.UseAllAsserts07" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UseAllAsserts_TestUseAllAsserts08 - 2018.04.24 at 12h 15m 20s.xml">
       <configuration name="UseAllAsserts.TestUseAllAsserts08" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UseAllAsserts_TestUseAllAsserts04 - 2018.04.24 at 12h 25m 29s.xml">
+      <configuration name="UseAllAsserts.TestUseAllAsserts04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UseAllAsserts_TestUseAllAsserts04 - 2018.04.24 at 12h 25m 37s.xml">
+      <configuration name="UseAllAsserts.TestUseAllAsserts04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UseAllAsserts_TestUseAllAsserts05 - 2018.04.24 at 12h 25m 59s.xml">
+      <configuration name="UseAllAsserts.TestUseAllAsserts05" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReplicateAllAsserts_AssertThat - 2018.04.24 at 13h 14m 49s.xml">
+      <configuration name="ReplicateAllAsserts.AssertThat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReplicateAllAsserts_AssertThat - 2018.04.24 at 13h 14m 56s.xml">
+      <configuration name="ReplicateAllAsserts.AssertThat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReplicateAllAsserts_AssertThat - 2018.04.24 at 13h 15m 02s.xml">
+      <configuration name="ReplicateAllAsserts.AssertThat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReplicateAllAsserts_AssertThatReplacesAssertNull - 2018.04.24 at 13h 28m 31s.xml">
+      <configuration name="ReplicateAllAsserts.AssertThatReplacesAssertNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReplicateAllAsserts - 2018.04.24 at 13h 33m 33s.xml">
+      <configuration name="ReplicateAllAsserts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReplicateAllAsserts_AssertThatReplacesAssertNotNull - 2018.04.24 at 13h 36m 33s.xml">
+      <configuration name="ReplicateAllAsserts.AssertThatReplacesAssertNotNull" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -483,7 +496,7 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32975295" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.19915849" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.44880787" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.29166666" />
@@ -537,13 +550,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk004/Chap004OefConfirmMaxMinValueIntegerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk004/Chap004Oef001Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -898,8 +904,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk014/UseAllAsserts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        <state relative-caret-position="383">
+          <caret line="66" selection-start-line="63" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/Hoofdstuk014/ReplicateAllAsserts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
